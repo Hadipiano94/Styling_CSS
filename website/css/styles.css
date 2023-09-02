@@ -1,0 +1,58 @@
+/**************************Tags*****************************/
+
+body {
+background-color: #EEEEEE;
+margin: 0px;
+}
+h1 {
+margin: 0px;
+}
+div {
+text-align: center;
+/* margin: 2%; */
+/* border: 20px solid #999999; */
+}
+.first {
+position: absolute;
+top: 22%;
+left: 42%;
+font-size: 22px;
+color: #10434B;
+}
+.second {
+position: relative;
+top: 65px;
+font-size: 15px;
+color: #000000;
+}
+.third {
+position: relative;
+top: 250px;
+font-size: 16px;
+color: #FFFFFF;
+}
+.top {
+background-image: url("../images/mountain.png");
+background-size: cover;
+background-position: center;
+height: 575px;
+font-family: "Lucida Handwriting", cursive;
+padding: 50px;
+background-color: #FFF1DC;
+}
+.middle {
+font-family: "Lucida Handwriting", cursive;
+height: 600px;
+padding-top: 0;
+padding-bottom: 50px;
+background-color: #FFF1DC;
+}
+.bottom {
+background-image: url("../images/ocean.png");
+background-size: cover;
+background-position: bottom;
+height: 520px;
+font-family: "Lucida Handwriting", cursive;
+padding: 50px;
+background-color: #FFF1DC;
+}
